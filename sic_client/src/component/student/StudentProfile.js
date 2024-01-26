@@ -38,11 +38,11 @@ const StudentProfile = () => {
                   {`${student.firstName} ${student.lastName}`}
                 </h5>
                 <div className="d-flex justify-content-center">
-                  <button type="button" className="btn btn-primary me-2">
+                  {/* <button type="button" className="btn btn-primary me-2">
                     <i className="bi bi-telephone-fill me-1"></i> Call
-                  </button>
+                  </button> */}
                   <button type="button" className="btn btn-warning">
-                    <i className="bi bi-chat-fill me-1"></i> Message
+                    <i className="bi bi-chat-fill me-1"></i> Email
                   </button>
                 </div>
               </div>
