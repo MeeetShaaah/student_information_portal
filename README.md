@@ -16,7 +16,6 @@ The Student Information Center is a web application built using Java Spring Boot
 - **Java Spring Boot:** Backend framework for building robust and scalable applications.
 - **JavaScript:** Front-end scripting language for dynamic web page interactions.
 - **Spring Data JPA:** Simplifies data access with the Spring framework.
-- **Thymeleaf:** Server-side templating engine for rendering views.
 - **Bootstrap:** Front-end framework for designing responsive and modern interfaces.
 
 ## Getting Started
