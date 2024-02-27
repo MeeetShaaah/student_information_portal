@@ -13,6 +13,8 @@ import EditStudent from "./component/student/EditStudent";
 import StudentPofile from "./component/student/StudentProfile";
 import StudentsView from "./component/student/StudentsView";
 
+
+
 function App() {
 	return (
 		<main className="container mt-5">
