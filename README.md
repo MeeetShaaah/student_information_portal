@@ -1,4 +1,4 @@
-# Student Information Center
+# Student Information Portal
 
 ## Overview
 
